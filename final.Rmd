@@ -8,6 +8,10 @@ output: html_document
 ```{r setup, include=FALSE}
 library("rjson")
 setwd("/Users/pap/Desktop/R_space/P8139_final_project")
+```
+
+
+```{r setup, include=FALSE}
 json <- jsonlite::fromJSON("metadata.cart.2023-05-01.json")   
 View(json)
 
