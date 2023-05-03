@@ -1,2 +1,2 @@
 # P8139_final_project
-P8139 final project
+This is the final project for Statistical Genetic Modeling.
